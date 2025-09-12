@@ -6,3 +6,4 @@ numpy==1.26.4
 Pillow==10.4.0
 pydantic==2.5.0
 setuptools==68.0.0
+pathlib2
