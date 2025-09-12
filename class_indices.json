@@ -1,0 +1,13 @@
+{
+  "brahman": 0,
+  "brahman_cross": 1,
+  "fresian": 2,
+  "fresian_cross": 3,
+  "gir": 4,
+  "jaffarabadi": 5,
+  "kankrej": 6,
+  "murrah": 7,
+  "sahiwal": 8,
+  "sahiwal_cross": 9,
+  "unknown": 10
+}

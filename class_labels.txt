@@ -1,0 +1,11 @@
+brahman
+brahman_cross
+fresian
+fresian_cross
+gir
+jaffarabadi
+kankrej
+murrah
+sahiwal
+sahiwal_cross
+unknown
